@@ -1,6 +1,6 @@
 # [2024 캡스톤]👕옷맞춤👖__ OpenCV
-2024 기초캡스톤디자인 팀 옷맞춤의 영상처리 코드입니다. 
-Python과 OpenCV, Mediapipe를 사용합니다.
+2024 기초캡스톤디자인 팀 옷맞춤의 영상처리 코드
+Python과 OpenCV, Mediapipe를 사용
 
 💻개발 환경
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
