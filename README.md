@@ -3,7 +3,6 @@
 Python과 OpenCV, Mediapipe를 사용
 
 ## 💻개발 환경 
-<br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ☑현재까지 완료한 기능
