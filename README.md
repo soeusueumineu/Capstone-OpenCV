@@ -3,7 +3,8 @@ capstone-opencv
 2024 기초캡스톤디자인 팀 옷맞춤의 영상처리 코드입니다. Python과 OpenCV, Mediapipe를 사용합니다.
 
 💻개발 환경
-Python 3.7 OpenCV
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+
 
 ☑현재까지 완료한 기능
 waistLine.py과 BodyMeasurementsFromHeight.py 파일 참고.
