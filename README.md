@@ -3,7 +3,7 @@
 Python과 OpenCV, Mediapipe를 사용합니다.
 
 💻개발 환경
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ☑현재까지 완료한 기능
 waistLine.py과 BodyMeasurementsFromHeight.py 파일 참고.
